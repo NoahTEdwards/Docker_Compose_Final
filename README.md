@@ -1,6 +1,6 @@
 ## Installation
 
-Run - git clone https://github.com/bagisto/bagisto-docker.git .
+Run - ~~~git clone https://github.com/bagisto/bagisto-docker.git .~~~
 
 ## Docker Compose
 
