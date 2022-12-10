@@ -1,6 +1,8 @@
 ## Installation
 
-Run - ~~~yml
+- Run 
+
+~~~
 git clone https://github.com/bagisto/bagisto-docker.git .
 ~~~
 
